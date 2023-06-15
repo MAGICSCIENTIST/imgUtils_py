@@ -1,5 +1,13 @@
-#图像工具
 [toc]
+#图像工具
+
+
+## 环境
+python3.11
+``` cmd
+pip install -r requirements.txt
+conda install scikit-image
+```
 
 ## 图像比对
 ###pHash 感知哈希
